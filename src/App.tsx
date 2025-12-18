@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Discovery from "./pages/Discovery";
-import SignIn from "./pages/SignIn";
 import Register from "./pages/Register";
+import SignIn from "./pages/Signin";
 import Welcome from "./pages/Welcome";
 
 function App() {
@@ -20,4 +20,3 @@ function App() {
 }
 
 export default App;
-
